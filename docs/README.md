@@ -5,5 +5,7 @@
 <ul>
   <li><h4><a href="./01-0.md#1-introduction">Introduction</a></h4></li>
   
+  <li><h4><a href="./02-0.md#2-categories-of-wrongdoers-who-contribute-to-high-crimes-and-crimes-against-humanity">Categories of Wrongdoers Who Contribute to High Crimes and Crimes Against Humanity</a></h4></li>
+  
 </ul>
 </div>

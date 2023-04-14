@@ -20,6 +20,8 @@
   
   <ul>
    <li><h3><a href="./02-2-1.md#221-university-of-waterloo">2.2.1 University of Waterloo</a></h3></li>
+   
+   <li><h3><a href="./02-2-2.md#222-uwaterloos-culpability-and-damages-owed-to-victims-and-survivors">2.2.2 UWaterloo's Culpability, and Damages Owed to Victims and Survivors</a></h3></li>
   </ul>
   
  </ul>

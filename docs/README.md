@@ -24,6 +24,8 @@
    <li><h3><a href="./02-2-2.md#222-uwaterloos-culpability-and-damages-owed-to-victims-and-survivors">2.2.2 UWaterloo's Culpability, and Damages Owed to Victims and Survivors</a></h3></li>
   </ul>
   
+  <li><h3><a href="./02-3.md#23-the-willful-and-deliberate-wrongdoers">2.3 Category III — The Willful and Deliberate Wrongdoers</a></h3></li>
+  
  </ul>
  
  <li><h3><a href=" "> </a></h3></li>

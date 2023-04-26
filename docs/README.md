@@ -32,13 +32,13 @@
    <ul>
    <li><h3><a href="./02-3-1-1.md#2311-the-nexus-between-ircc-and-uwaterloo">2.3.1.1 The Nexus Between IRCC and UWaterloo</a></h3></li>
    
-    <ul>
-    <li><h3><a href="./02-3-1-1.md#a-irccs-rules-and-regulations-for-work-visas">A) IRCC's Rules and Regulations for Work Visas</a></h3></li>
-    
-    <li><h3><a href="./02-3-1-1.md#b-responsibilities-of-uwaterloo-and-mbet">B) Responsibilities of UWaterloo and MBET</a></h3></li>
-    
-    <li><h3><a href="./02-3-1-1.md#c-ongoing-systematic-discrimination-orchestrated-by-ircc-in-coordination-with-uwaterloo">C) Ongoing Systematic Discrimination Orchestrated by IRCC in Coordination with UWaterloo</a></h3></li>
-    </ul>
+   <ul>
+   <li><h3><a href="./02-3-1-1.md#a-irccs-rules-and-regulations-for-work-visas">A) IRCC's Rules and Regulations for Work Visas</a></h3></li>
+   
+   <li><h3><a href="./02-3-1-1.md#b-responsibilities-of-uwaterloo-and-mbet">B) Responsibilities of UWaterloo and MBET</a></h3></li>
+   
+   <li><h3><a href="./02-3-1-1.md#c-ongoing-systematic-discrimination-orchestrated-by-ircc-in-coordination-with-uwaterloo">C) Ongoing Systematic Discrimination Orchestrated by IRCC in Coordination with UWaterloo</a></h3></li>
+   </ul>
    
    <li><h3><a href="./02-3-1-2.md#2312-top-front-and-side-loaded-ponzi-schemes">2.3.1.2 Top, Front, and Side Loaded Ponzi Schemes</a></h3></li>
    </ul>

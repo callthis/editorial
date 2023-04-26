@@ -26,6 +26,16 @@
   
   <li><h3><a href="./02-3.md#23-the-willful-and-deliberate-wrongdoers">2.3 Category III — The Willful and Deliberate Wrongdoers</a></h3></li>
   
+  <ul>
+   <li><h3><a href="./02-3-1.md#231-organized-crimes">2.3.1 Organized Crimes</a></h3></li>
+   
+   <ul>
+   <li><h3><a href="./02-3-1-1.md#2311-the-nexus-between-ircc-and-uwaterloo">2.3.1.1 The Nexus Between IRCC and UWaterloo</a></h3></li>
+   
+   <li><h3><a href="./02-3-1-2.md#2312-top-front-and-side-loaded-ponzi-schemes">Top, Front, and Side Loaded Ponzi Schemes</a></h3></li>
+   </ul>
+  </ul>
+  
  </ul>
  
  <li><h3><a href=" "> </a></h3></li>

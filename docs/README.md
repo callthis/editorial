@@ -21,7 +21,7 @@
  <ul>
   <li><h4><a href="./02-2-1.md#221-university-of-waterloo">2.2.1 University of Waterloo</a></h4></li>
   
-  <li><h4><a href="./02-2-2.md#222-professional-misconduct-of-managers-and-leaders-in-uwaterloo">2.2.2 Professional Misconduct of Managers and Leaders in UWaterloo</a></h4></li>
+  <li><h4><a href="./02-2-2.md#222-professional-misconduct-of-managers-and-leaders-of-uwaterloo">2.2.2 Professional Misconduct of Managers and Leaders of UWaterloo</a></h4></li>
  </ul>
  
  <li><h4><a href="./02-3.md#23-the-willful-and-deliberate-wrongdoers">2.3 Category III — The Willful and Deliberate Wrongdoers</a></h4></li>

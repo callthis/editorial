@@ -49,15 +49,16 @@
    
    <li><h4><a href="./02-3-1-3.md#b-how-to-run-your-own-tuck-shop-and-religious-cult-from-within-a-canadian-university">B) How to run your own tuck shop and religious cult, from within a Canadian university.</a></h4></li>
   </ul>
+ </ul>
+ 
+ <li><h4><a href="./02-3-2.md#232-hate-crimes-and-genocidal-activities">2.3.2 Hate Crimes and Genocidal Activities</a></h4></li>
+ 
+ <ul>
+  <li><h4><a href="./docs/02-3-2-1.md#2321-bigotry-and-racial-prejudices-embedded-within-the-functions-of-ircc">2.3.2.1 Bigotry and Racial Prejudices Embedded Within The Functions of IRCC</a></h4></li>
   
-  <li><h4><a href="./02-3-2.md#232-hate-crimes-and-genocidal-activities">2.3.2 Hate Crimes and Genocidal Activities</a></h4></li>
+  <li><h4><a href="./docs/02-3-2-2.md#2322-genocides-being-conducted-by-a-nexus-of-canadian-institutions">2.3.2.2 Genocides Being Conducted by a Nexus of Canadian Institutions</a></h4></li>
+ </ul>
   
-  <ul>
-   <li><h4><a href="./docs/02-3-2-1.md#2321-bigotry-and-racial-prejudices-embedded-within-the-functions-of-ircc">2.3.2.1 Bigotry and Racial Prejudices Embedded Within The Functions of IRCC</a></h4></li>
-   
-   <li><h4><a href="./docs/02-3-2-2.md#2322-genocides-being-conducted-by-a-nexus-of-canadian-institutions">2.3.2.2 Genocides Being Conducted by a Nexus of Canadian Institutions</a></h4></li>
-  </ul>
-   
  </ul> 
 </ul>
  

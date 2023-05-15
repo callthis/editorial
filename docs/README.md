@@ -45,9 +45,9 @@
   <li><h4><a href="./02-3-1-3.md#2313-international-scale-crimes-of-tax-evasion-bribery-and-art-theft">2.3.1.3 International-Scale Crimes of Tax-Evasion, Bribery, and Art Theft</a></h4></li>
   
   <ul>
-   <li><h4><a href="./02-3-1-3.md#a-how-to-hide-corporate-losses-while-funneling-money-to-offshore-reserves-in-the-name-of-supporting-young-entrepreneurs">A) How to hide corporate losses while funneling money to offshore reserves in the name of supporting "young entrepreneurs."</a></h4></li>
+   <li><h4><a href="./02-3-1-3.md#a-how-to-hide-corporate-losses-while-funneling-money-to-offshore-reserves-in-the-name-of-supporting-young-entrepreneurs">A) How to hide corporate losses while funneling money to offshore reserves in the name of supporting "young entrepreneurs"</a></h4></li>
    
-   <li><h4><a href="./02-3-1-3.md#b-how-to-run-your-own-tuck-shop-and-religious-cult-from-within-a-canadian-university">B) How to run your own tuck shop and religious cult, from within a Canadian university.</a></h4></li>
+   <li><h4><a href="./02-3-1-3.md#b-how-to-run-your-own-tuck-shop-and-religious-cult-from-within-a-canadian-university">B) How to run your own tuck shop and religious cult, from within a Canadian university</a></h4></li>
   </ul>
  </ul>
  
@@ -58,11 +58,9 @@
   
   <li><h4><a href="./02-3-2-2.md#2322-genocides-being-conducted-by-a-nexus-of-canadian-institutions">2.3.2.2 Genocides Being Conducted by a Nexus of Canadian Institutions</a></h4></li>
  </ul>
-  
- </ul> 
 </ul>
  
- <li><h4><a href=" "> </a></h4></li>
-
+ <li><h4><a href="./02-4.md#24-category-iv--supreme-wrongdoers">2.4 Category IV — Supreme Wrongdoers</a></h4></li>
+ 
 </ul>
 </div>

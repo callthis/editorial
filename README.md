@@ -1,4 +1,4 @@
-# editorial
+# Editorial
 Articles with an editorialized style
 
 ---

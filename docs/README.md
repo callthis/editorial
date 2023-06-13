@@ -62,6 +62,21 @@
  
  <li><h4><a href="./02-4.md#24-category-iv--supreme-wrongdoers">2.4 Category IV — Supreme Wrongdoers</a></h4></li>
  
+ <ul>
+  <li><h4><a href="./02-4-1.md#241-culpability-of-key-public-and-private-organizations-in-canada">2.4.1 Culpability of Key Public and Private organizations in Canada</a></h4></li>
+  
+  <ul>
+   <li><h4><a href="./02-4-1-1.md#2411-health-canada">2.4.1.1 Health Canada</a></h4></li>
+   
+   <li><h4><a href="./02-4-1-2.md#2412-local-health-integration-networks">2.4.1.2 Local Health Integration Networks</a></h4></li> 
+   
+   <li><h4><a href="./02-4-1-3.md#2413-accrediting-agencies-and-institutions-of-canada">2.4.1.3 Accrediting Agencies and Institutions, of Canada</a></h4></li> 
+  </ul>
+  
+  <li><h4><a href="./02-4-2.md#242-misuse-and-abuse-of-rationalism-and-perennial-collateral-damage">2.4.2 Misuse and Abuse of Rationalism, and Perennial Collateral Damage</a></h4></li>
+  
+ </ul>
+ 
 </ul>
 </div>
 

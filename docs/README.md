@@ -77,10 +77,10 @@
   
   <li><h4><a href="./02-4-3.md#243-international-terrorism-and-violence-incubated-in-canada">2.4.3 International Terrorism and Violence Incubated in Canada</a></h4></li>
  </ul>
- 
- <li><h4><a href="./03-0.md#3-ongoing-ordeals-of-survivors-and-victims-due-to-malicious-agencies-of-canada">3. Ongoing Ordeals of Survivors and Victims due to Malicious Agencies of Canada</a></h4></li>
 </ul>
 
+<li><h4><a href="./03-0.md#3-ongoing-ordeals-of-survivors-and-victims-due-to-malicious-agencies-of-canada">3. Ongoing Ordeals of Survivors and Victims due to Malicious Agencies of Canada</a></h4></li>
+</ul>
 </div>
 
 ---

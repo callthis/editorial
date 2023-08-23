@@ -76,10 +76,11 @@
   <li><h4><a href="./02-4-2.md#242-misuse-and-abuse-of-rationalism-and-perennial-collateral-damage">2.4.2 Misuse and Abuse of Rationalism, and Perennial Collateral Damage</a></h4></li>
   
   <li><h4><a href="./02-4-3.md#243-international-terrorism-and-violence-incubated-in-canada">2.4.3 International Terrorism and Violence Incubated in Canada</a></h4></li>
-  
  </ul>
  
+ <li><h4><a href="./03-0.md#3-ongoing-ordeals-of-survivors-and-victims-due-to-malicious-agencies-of-canada">3. Ongoing Ordeals of Survivors and Victims due to Malicious Agencies of Canada</a></h4></li>
 </ul>
+
 </div>
 
 ---

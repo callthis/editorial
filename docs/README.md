@@ -79,7 +79,7 @@
  </ul>
 </ul>
 
-<li><h4><a href="./03-0.md#3-ongoing-ordeals-of-survivors-and-victims-due-to-malicious-agencies-of-canada">3. Ongoing Ordeals of Survivors and Victims due to Malicious Agencies of Canada</a></h4></li>
+<li><h4><a href="./03-0.md#3-ongoing-ordeals-of-survivors-and-victims-due-to-malicious-activities-of-canadian-agencies">3. Ongoing Ordeals of Survivors and Victims due to Malicious Activities of Canadian Agencies</a></h4></li>
 </ul>
 </div>
 
